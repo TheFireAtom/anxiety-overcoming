@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"include"
+			],
+			[
+				"tasks",
+				"tasksQuantity"
+			],
+			[
+				"task",
+				"tasksQuantity"
+			],
+			[
+				"Ta",
+				"TaskManager"
+			],
+			[
+				"disp",
+				"displayHeader"
+			],
+			[
+				"Color",
+				"Colors.hpp"
+			],
+			[
+				"de",
+				"denominator_imag_part"
+			],
+			[
+				"nume",
+				"numerator_imag_part"
+			],
+			[
+				"ima",
+				"imag_part"
+			],
+			[
+				"as",
+				"asNonMemberFunction"
+			],
+			[
+				"write",
+				"writeAnotherLinesToFile"
+			],
+			[
+				"Coor",
+				"Colors"
+			],
+			[
+				"BL",
+				"BLACK"
+			],
+			[
+				"string",
+				"string.h"
+			],
+			[
+				"RE",
+				"RESET"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ref",
+				"refTemp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "level_9_number_factorial.cpp",
+			"redo_stack":
+			[
+				[
+					10,
+					1,
+					"sort_lines",
+					{
+						"case_sensitive": false
+					},
+					"AQAAAAAAAAAAAAAAtQIAAAAAAAA2AwAACgoKCgoKCgkJbmZhY3RvcmlhbChudW0tMSk7CgkJcmVzdWx0ICo9IG51bTsKCQlyZXR1cm4gcmVzdWx0OwoJLy8g0JLQutC70Y7Rh9Cw0LXQvCBVVEYtOCAo0LTQu9GPINGA0YPRgdGB0LrQvtCz0L4g0Y/Qt9GL0LrQsCkKCS8vINCf0L7QuNGB0Log0YTQsNC60YLQvtGA0LjQsNC70LAKCWZvbygpOwoJaWYgKG51bSA9PSAxKSB7CglpbnQgd2FudGVkTnVtOwoJcmV0dXJuIDA7CglzdGF0aWMgaW50IHJlc3VsdCA9IDE7CglzdGQ6OmNpbiA+PiB3YW50ZWROdW07CglzdGQ6OmNvdXQgPDwgItCS0LLQtdC00LjRgtC1INGH0LjRgdC70L4sINGE0LDQutGC0L7RgNC40LDQuyDQutC+0YLQvtGA0L7Qs9C+INCy0Ysg0YXQvtGC0LjRgtC1INC90LDQudGC0Lg6ICI7CglzdGQ6OmNvdXQgPDwgItCk0LDQutGC0L7RgNC40LDQuyDQstCw0YjQtdCz0L4g0YfQuNGB0LvQsCDRgNCw0LLQtdC9OiAiIDw8IG5mYWN0b3JpYWwod2FudGVkTnVtKTsKCX0KCX0gZWxzZSB7CiAgICAKICAgIFNldENvbnNvbGVDUCg2NTAwMSk7CiAgICBTZXRDb25zb2xlT3V0cHV0Q1AoNjUwMDEpOwojaW5jbHVkZTxjaHJvbm8+CiNpbmNsdWRlPGlvc3RyZWFtPgojaW5jbHVkZTxzdHJpbmc+CiNpbmNsdWRlPHRocmVhZD4KI2luY2x1ZGU8V2luZG93cy5oPgovLyBDb21wbGV0ZWQhISEKLy8gQ29uZ3JhZHMhISEKLy8gTGV2ZWwgOToKLy8gTnVtYmVyIGZhY3RvcmlhbAovLyBXaW5kb3dzQVBJCi8vINCS0YDQtdC80LXQvdC90YvQtSDQt9Cw0LTQtdGA0LbQutC4INC4INGC0YDQtdC00YsKaW50IG1haW4oKSB7CmludCBuZmFjdG9yaWFsKGludCBudW0pIHsKdm9pZCBmb28oKSB7Cn0KfQp9",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAALUCAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 697,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"debugg",
+				"Debugger: Quit"
+			],
+			[
+				"debugger: add or",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"debugger",
+				"Debugger: Open"
+			],
+			[
+				"PACKAGE Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"Debugg",
+				"Debugger: Open"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"git commit ",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"Git add",
+				"Git: Add..."
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Programming_stuff/Anxiety-overcoming"
+	],
+	"file_history":
+	[
+		"/C/Programming_stuff/Anxiety-overcoming/cpp_debug.sublime-project",
+		"/C/Users/Ivane/AppData/Roaming/Sublime Text/Packages/User/Debugger.sublime-settings",
+		"/C/Users/Ivane/AppData/Roaming/Sublime Text/Packages/Debugger/Debugger.sublime-settings",
+		"/C/Programming_stuff/Anxiety-overcoming/level_9_number_factorial.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_template.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_8_numbers_sum_from_1_to_N.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_7_multiplication_table.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_6_reverse_countdown.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_5_even_or_odd.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_4_echo_chamber.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_3.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_2.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_1.cpp",
+		"/C/Programming_stuff/Anxiety-overcoming/level_6_multiplication_table.exe",
+		"/C/Programming_stuff/Anxiety-overcoming/main.cpp",
+		"/C/Programming_stuff/learning-code/patterns/singleton.cpp",
+		"/C/Programming_stuff/learning-code/patterns/basic_patterns.cpp",
+		"/C/Programming_stuff/learning-code/patterns/singleton/mySingleton.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Object Lifetime/main.cpp",
+		"/C/Users/Ivane/OneDrive/MIREA_4_course_1_sem/semester_work/Code_in_avr_studio/additional_things/linel_proga.asm",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/include/ConsoleUI.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/include/Colors.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/include/TaskManager.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/TaskManager.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/Controller.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/ConsoleUI.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/main.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/taskLogic.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/lists.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/testColor.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/src/Colors.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/UI/Start_screen/ConsoleUI.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/UI/Text_colors/Colors.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/UI/Text_colors/Colors.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/todo.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/UI/Text_colors/testColor.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/Logic/tasks.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/operator_overloading/complex_numbers.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/operator_overloading/main.cpp",
+		"/C/Users/Ivane/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ivane/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/ConsoleUI.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/folder",
+		"/C/Programming_stuff/learning-code/cpp-study/fstream/file.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/fstream/Sample.txt",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/testColor.cpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/Colors.hpp",
+		"/C/Programming_stuff/small-programming-projects/cpp_projects/todo_list/Colors.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/testColor.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/ConsoleUI.hpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/training_projects/mobile_phone_book/main.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/todo.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/Colors.hpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/Colors.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Dynamic_typing/typeid_operator.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/fstream_usage_test.cpp",
+		"/C/Programming_stuff/small-programming-projects/C++_projects/todo_list/main.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/task4.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/task3.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/task2.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/task1.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/Passing_to_functions.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Dynamic_typing/dynamic_typing_with_std_any.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Dynamic_typing/dynamic_typing_with_void_ptr.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Memory-model-in-cpp/memory model explained",
+		"/C/Programming_stuff/learning-code/cpp-study/Pointers_and_references/Basic_usage.cpp",
+		"/C/Programming_stuff/learning-code/cpp-study/Dynamic typing/dynamic_typing.cpp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "level_9_number_factorial.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Build current C++ file":
+	{
+		"height": 394.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger":
+	{
+		"height": 451.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Callstack":
+	{
+		"height": 241.0,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Console":
+	{
+		"height": 394.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 213.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.git":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "cpp_debug.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

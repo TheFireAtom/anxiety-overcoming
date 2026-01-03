@@ -1,0 +1,27 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+
+  "debugger_tasks": [
+    {
+      "name": "Build current C++ file",
+      "shell_cmd": "g++ -std=c++20 -g -O0 \"${file}\" -o \"${folder}/app.exe\"",
+      "working_dir": "${folder}"
+    }
+  ],
+
+"debugger_configurations": [
+  {
+    "name": "C++ (gdb)",
+    "type": "gdb",
+    "request": "launch",
+
+    "program": "${folder}/app.exe",
+    "cwd": "${folder}",
+
+    "miDebuggerPath": "C:/MinGW/bin/gdb.exe"
+  }
+]
+
+}
