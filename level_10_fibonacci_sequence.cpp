@@ -10,30 +10,25 @@
 #include<chrono>
  
 void fibonacci () {
+
 	int N;
+	int first = 0;
+	int next = 1;
 	std::cout << "Enter your final fibonacci number: ";
 	std::cin >> N;
 
 	if (N == 0) {
-		std::cout << "Пустая последовательность" << std::endl;
+		std::cout << "0" << std::endl;
 	} else {
-		int first_num = 0;
-		int second_num = 1;
-		int result_one;
-		int result_two;		
-		int result_final;
+		while (next != N) {
+			std::cout << first + next << std::endl;
 
-		while (first_num != N || second_num != N) {
-
-			std::cout << first_num << " ";			
-			std::cout << second_num << " ";			
-			
-			result_one = first_num + second_num;
-			result_two = result_one + second_num;
-
-			first_num = result_one;
-			second_num = result_two;
+			int temp = first;
+			first = next;
+			next = temp + next;
 		}
+	}
+}
 
 // N = 5
 
@@ -43,8 +38,7 @@ void fibonacci () {
 // 1 + 2 = 3
 // 2 + 3 = 5
 
-	}
-}
+
 
 int main() {
 	// Включаем UTF-8 (для русского языка)
